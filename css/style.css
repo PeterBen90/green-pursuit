@@ -992,42 +992,12 @@ header {
   }
 
   .Modern-Slider .NextArrow{
-    /* outline: none;
-    display: none;
-    position:absolute;
-    top:120px; */
-    /* right: 50%;
-    transform: translateX(50%); */
-    /* margin-right: -50px;
-    width:50px;
-    height:50px;
-    background:rgba(0,0,0,.50);
-    border:0 none;
-    text-align:center;
-    font:32px/50px FontAwesome;
-    color:#FFF;
-    z-index:5; */
     display: none !important;
   }
 
   .Modern-Slider .NextArrow:before{content:'\f105';}
 
   .Modern-Slider .PrevArrow{
-    /* outline: none;
-    position:absolute;
-    top:120px; */
-    /* left: 50%;
-    transform: translateX(-50%); */
-    /* margin-left: -30px;
-    width:50px;
-    height:50px;
-    background:rgba(0,0,0,.50);
-    border:0 none;
-    text-align:center;
-    font:32px/50px FontAwesome;
-    color:#FFF;
-    z-index:5;
-    right: 90px; */
     display: none !important;
   }
 
@@ -1092,6 +1062,7 @@ header {
   padding-top: 50px;
 }
 
-.footer-content {
+.footer-content,
+.sub {
   color: white;
 }
