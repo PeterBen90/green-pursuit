@@ -609,6 +609,7 @@ header {
   padding-right: 60px;
   padding-bottom: 50px;
   padding-top: -30px;
+  background-color: #f4f4f4;
 }
 
 #reviews.section-content{
@@ -721,7 +722,6 @@ header {
 
 #reviews .item .text-content {
   padding-top: 40px;
-  background-color: #fff;
   position: relative;
   z-index: 10;
 }
